@@ -336,4 +336,6 @@ If you find FocusFlow interesting or useful, consider giving the repository a â­
 
 ---
 
-### Built with React, TypeScript & a focus on better productivity. âœ¦
+### Built with React, TypeScript & a focus on better productivity. 
+
+
