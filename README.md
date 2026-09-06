@@ -38,7 +38,7 @@ It combines a clean glassmorphism-inspired interface with subtle animations, res
 
 * Create custom habits
 * Track habits throughout the week
-* Click to mark daily completion.
+* Click to mark daily completion
 * Automatic streak tracking.
 * Weekly completion visualization.
 
