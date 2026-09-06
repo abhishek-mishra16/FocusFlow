@@ -40,7 +40,7 @@ It combines a clean glassmorphism-inspired interface with subtle animations, res
 * Track habits throughout the week
 * Click to mark daily completion
 * Automatic streak tracking
-* Weekly completion visualization.
+* Weekly completion visualization
 
 ### ⏱️ Focus Timer
 
