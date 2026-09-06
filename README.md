@@ -36,7 +36,7 @@ It combines a clean glassmorphism-inspired interface with subtle animations, res
 
 ### 🔥 Habit Tracker
 
-* Create custom habits.
+* Create custom habits
 * Track habits throughout the week.
 * Click to mark daily completion.
 * Automatic streak tracking.
