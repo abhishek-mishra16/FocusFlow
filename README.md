@@ -10,7 +10,7 @@ It combines a clean glassmorphism-inspired interface with subtle animations, res
 
 ## ✨ Features
 
-### 📋 Smart Task Management
+### 📋 Smart Task Management 
 
 * Create and delete tasks
 * Mark tasks as completed
